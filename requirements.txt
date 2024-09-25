@@ -1,4 +1,11 @@
 requests
 beautifulsoup4
 python-dotenv
-
+faiss-cpu
+langchain
+transformers
+pandas
+numpy
+sentence-transformers
+openai
+pinecone
