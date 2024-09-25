@@ -17,7 +17,7 @@ This project is a news summarizer app that scrapes articles from TechCrunch and 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Danjari/startupFundingTracker.git
    ```
 
 2. Install the required dependencies:
@@ -66,7 +66,6 @@ The required dependencies are listed in the `requirements.txt` file, including:
 - `numpy`
 - `sentence-transformers`
 - `openai`
-- `pinecone`
 
 Install these dependencies with:
 ```bash
@@ -84,6 +83,3 @@ pip install -r requirements.txt
 
 This project is for educational purposes.
 
----
-
-Let me know if you need any more adjustments!
