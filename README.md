@@ -6,6 +6,11 @@
 
 This project is a news summarizer app that scrapes articles from TechCrunch and provides users with concise, AI-enhanced summaries of the latest articles. The user can ask questions about recent events, and the app will search through the scraped data and provide summaries of relevant articles. It is built with Python and integrates FAISS for efficient search and OpenAI's GPT model for generating human-like summaries.
 
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/0zop1nVLpLs/0.jpg)](https://youtu.be/0zop1nVLpLs)
+
+Click the image to watch the video!
 ## Features
 
 - **Web Scraping**: Data is scraped from TechCrunch using the `scraper.py` script, storing key information like article titles, authors, URLs, and content in a CSV file.
